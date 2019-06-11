@@ -14,10 +14,10 @@
    1. SizeKorea(한국인인체치수조사) 사이트에서 2015년 제 7차 신체 측정 데이터 파일을 받아온다.
    2. 파이썬에서 pandas를 이용하여 입력받은 후 알고자 하는 데이터 이름과 percentile을 입력한다.
    3. 그 후 입력된 percentile에 해당하는 데이터 값과 그래프를 출력한다.
-   ![map.png](./흐름도.png)
+![map.png](흐름도.png)
 
 ## 사용한 공공데이터 
-[데이터보기]https://github.com/dongjuuun/p2019/blob/master/%EC%8B%A0%EC%B2%B4%EC%A7%81%EC%A0%91%EC%B8%A1%EC%A0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B03.csv
+[데이터보기](https://github.com/dongjuuun/p2019/blob/master/%EC%8B%A0%EC%B2%B4%EC%A7%81%EC%A0%91%EC%B8%A1%EC%A0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B03.csv)
 
 ## 소스
 * [링크로 소스 내용 보기]
