@@ -1,4 +1,4 @@
-# p2019
+
 
 # 인간공학적인 자동차 칵핏 설계를 위한 신체계측치 분석
 
@@ -26,7 +26,7 @@ https://github.com/dongjuuun/p2019/blob/master/last_code.py
 
 * 코드 삽입
 
-
+~~~python
 import csv
 import numpy as np
 import pandas as pd
@@ -61,3 +61,4 @@ with open('C:\\Users\movejun\Desktop\학교\신체직접측정 데이터3.csv','
             plt.show()
         else:
             continue
+ ~~~
